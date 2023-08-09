@@ -24,7 +24,7 @@ Recreate a centralised card layout containing a QR Code with a title and paragra
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://beksterslab.github.io/QR-code-component/)
+- Solution URL: [My Solution](https://beksterslab.github.io/QR-code-component/)
 
 ## My process
 
