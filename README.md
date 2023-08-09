@@ -20,7 +20,7 @@ Recreate a centralised card layout containing a QR Code with a title and paragra
 
 ### Screenshot
 
-![](FireShot Capture 001 - Frontend Mentor - QR code component - beksterslab.github.io.png)
+![](./screenshot-solution.png)
 
 ### Links
 
